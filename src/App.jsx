@@ -67,7 +67,7 @@ function App() {
             <motion.a href='#exp' variants={fadeIn} initial="hidden" animate="show" transition={{ delay: 0.2 }} className="text-sm sm:text-2xl font-semibold mb-6">Experience</motion.a>
             <motion.a href='#projects' variants={fadeIn} initial="hidden" animate="show" transition={{ delay: 0.2 }} className="text-sm sm:text-2xl font-semibold mb-6">Projects</motion.a>
             <motion.a href='#contact' variants={fadeIn} initial="hidden" animate="show" transition={{ delay: 0.2 }} className="text-sm sm:text-2xl font-semibold mb-6">Contact</motion.a>
-            <motion.a href='https://drive.google.com/file/d/1XxRDwh-fGkoPOddCvzdkTPyf2at-w_2R/view?usp=drive_link' target='_blank' rel="noopener noreferrer" variants={fadeIn} initial="hidden" animate="show" transition={{ delay: 0.2 }} className="text-sm sm:text-2xl font-semibold mb-6">Resume</motion.a>
+            <motion.a href='https://drive.google.com/file/d/1zBKCR1kJZkmtpPgvKpzYXXLMPfKBKBi_/view?usp=drivesdk' target='_blank' rel="noopener noreferrer" variants={fadeIn} initial="hidden" animate="show" transition={{ delay: 0.2 }} className="text-sm sm:text-2xl font-semibold mb-6">Resume</motion.a>
           </motion.div>
 
           {/* Mobile Navigation List View */}
